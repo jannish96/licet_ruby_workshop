@@ -1,0 +1,10 @@
+x=1
+while x<100
+puts x if x.odd?
+x=x+1
+end
+until x>0
+puts x if x.even?
+x=x-1
+end
+

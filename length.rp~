@@ -1,0 +1,5 @@
+["janani","evelinfjustus","shaliniinfanta","saronsaji"].each do|name|
+if(name.length)<=10
+puts name
+end
+

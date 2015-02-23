@@ -1,0 +1,8 @@
+func([1,2,4,5,6]
+def func(arr)
+arr.each do|x|
+puts x if((x*2)%5==0)
+end
+end
+
+
